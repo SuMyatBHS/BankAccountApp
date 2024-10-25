@@ -1,0 +1,14 @@
+/Users/sumyatsint/ReactApp/BankAccountApp/obj/Debug/net8.0/BankAccountApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sumyatsint/ReactApp/BankAccountApp/obj/Debug/net8.0/BankAccountApp.AssemblyInfoInputs.cache
+/Users/sumyatsint/ReactApp/BankAccountApp/obj/Debug/net8.0/BankAccountApp.AssemblyInfo.cs
+/Users/sumyatsint/ReactApp/BankAccountApp/obj/Debug/net8.0/BankAccountApp.csproj.CoreCompileInputs.cache
+/Users/sumyatsint/ReactApp/BankAccountApp/bin/Debug/net8.0/BankAccountApp
+/Users/sumyatsint/ReactApp/BankAccountApp/bin/Debug/net8.0/BankAccountApp.deps.json
+/Users/sumyatsint/ReactApp/BankAccountApp/bin/Debug/net8.0/BankAccountApp.runtimeconfig.json
+/Users/sumyatsint/ReactApp/BankAccountApp/bin/Debug/net8.0/BankAccountApp.dll
+/Users/sumyatsint/ReactApp/BankAccountApp/bin/Debug/net8.0/BankAccountApp.pdb
+/Users/sumyatsint/ReactApp/BankAccountApp/obj/Debug/net8.0/BankAccountApp.dll
+/Users/sumyatsint/ReactApp/BankAccountApp/obj/Debug/net8.0/refint/BankAccountApp.dll
+/Users/sumyatsint/ReactApp/BankAccountApp/obj/Debug/net8.0/BankAccountApp.pdb
+/Users/sumyatsint/ReactApp/BankAccountApp/obj/Debug/net8.0/BankAccountApp.genruntimeconfig.cache
+/Users/sumyatsint/ReactApp/BankAccountApp/obj/Debug/net8.0/ref/BankAccountApp.dll
